@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/funaji-nikki",
  "yomi": "ふなじにっき",
  "category": "紀行",
- "description": null,
+ "description": {
+  "kind": "紀行",
+  "era": "未詳",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "郷里で人々に見送られて船出し、須磨の浦などを経て難波の川口に入るまでの船旅の日記。歌をまじえる。"
+ },
  "editions": [
   {
    "pid": "993388",
